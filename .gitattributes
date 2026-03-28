@@ -1,2 +1,3 @@
+*.mp4 binary media=video/mp4
 * text=auto eol=lf
 *.html linguist-language=HTML encoding=UTF-8
